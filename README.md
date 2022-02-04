@@ -1,13 +1,7 @@
 <div id="top"></div>
 
 <!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -27,7 +21,7 @@
   <h3 align="center">marching-square-simulator</h3>
 
   <p align="center">
-    A simple interactive marching square simulator with pygames.
+    A simple interactive marching square simulator with pygame.
     <br />
     <a href="https://github.com/janthmueller/marching-square-simulator"><strong>Explore the docs »</strong></a>
     <br />
@@ -73,35 +67,22 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+A simple interactive simulation of a marching square on binary iso-values.
+You can draw black and white cells, move the marching square manually around and move it according to the iso-values (set by colors).
+![Product Name Screen Shot][product-screenshot]
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+### Control
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+Major frameworks/libraries used to bootstrap the project. 
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [pygame](https://www.pygame.org/)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -109,20 +90,38 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 <!-- GETTING STARTED -->
 ## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
-
-
-
 ### Installation
-
-
 
 <!-- USAGE EXAMPLES -->
 ## Usage
+Start Simulation/Game
+
+```sh
+python marching_square.py
+```
+
+Optional Arguments:
+```sh
+  -h, --help            show this help message and exit
+  --window_height WINDOW_HEIGHT
+                        Change the window height. The default height is set to 500.
+  --window_width WINDOW_WIDTH
+                        Change the window width. The default height is set to 500.
+  --block_size BLOCK_SIZE
+                        Change the size of each block which represents isovalues. The default size is set to 20.
+  --grid_color red_value green_value blue_value
+                        Change the grid color rgb. The default color is grey with the rgb-values: 200 200 200.
+  --empty_cell_color red_value green_value blue_value
+                        Change the empty cell color rgb. The default color is white with the rgb-values: 255 255 255.
+  --filled_cell_color red_value green_value blue_value
+                        Change the filled cell color rgb. The default color is white with the rgb-values: 0 0 0.
+  --square_color_walk red_value green_value blue_value
+                        Change the square color in walk mode. The default color is blue with the rgb-values: 0 0 255.
+  --square_color_march red_value green_value blue_value
+                        Change the square color in walk mode. The default color is red with the rgb-values: 255 0 0.
+
+```
 
 
 
