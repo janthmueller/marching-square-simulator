@@ -73,7 +73,6 @@ You can draw black and white cells, move the marching square manually around and
 ![Product Name Screen Shot][product-screenshot]
 
 
-### Control
 
 
 
@@ -96,7 +95,7 @@ Major frameworks/libraries used to bootstrap the project.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-Start Simulation/Game
+###Start Simulation/Game
 
 ```sh
 python marching_square.py
@@ -123,10 +122,11 @@ Optional Arguments:
                         Change the square color in walk mode. The default color is red with the rgb-values: 255 0 0.
 
 ```
+### Control
 
-
-
-
+WASD - move marching square freely
+SPACE - move marching square by iso-values 
+MOUSECLICK on cell - change cell color (white <-> black) / iso-value (0 <-> 1)
 
 <!-- ROADMAP -->
 ## Roadmap
