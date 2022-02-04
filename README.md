@@ -95,7 +95,7 @@ Major frameworks/libraries used to bootstrap the project.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-###Start Simulation/Game
+### Start Simulation/Game
 
 ```sh
 python marching_square.py
