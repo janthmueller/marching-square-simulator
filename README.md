@@ -126,7 +126,7 @@ Optional Arguments:
 
 MOUSECLICK on cell - change cell color (white <-> black) / iso-value (0 <-> 1)  
 WASD - move marching square freely  
-SPACE - move marching square by iso-values. Inspired by [Wiki-Diagramm](https://de.wikipedia.org/wiki/Marching_Squares#/media/Datei:Marchsquares.png)
+SPACE - move marching square by iso-values. Inspired by [Wiki-Figure](https://de.wikipedia.org/wiki/Marching_Squares#/media/Datei:Marchsquares.png)
 
 <!-- ROADMAP -->
 ## Roadmap
