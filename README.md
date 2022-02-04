@@ -69,6 +69,7 @@
 
 A simple interactive simulation of a marching square on binary iso-values.
 You can draw black and white cells, move the marching square manually around and move it according to the iso-values (set by colors).
+
 ![Product Name Screen Shot][product-screenshot]
 
 
@@ -169,7 +170,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Jan Müller
 
 Project Link: [https://github.com/janthmueller/marching-square-simulator](https://github.com/janthmueller/marching-square-simulator)
 
