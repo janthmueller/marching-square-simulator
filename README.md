@@ -183,7 +183,8 @@ Project Link: [https://github.com/janthmueller/marching-square-simulator](https:
 
 
 * [Best README Template](https://github.com/othneildrew/Best-README-Template)
-* 
+* [How to make a grid in pygame](https://stackoverflow.com/a/61007670)
+* [Proper use of argparse](https://github.com/UBCDingXin/improved_CcGAN/blob/master/UTKFace/UTKFace_192x192/CcGAN-improved/opts.py)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
