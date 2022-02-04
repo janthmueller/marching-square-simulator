@@ -14,7 +14,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/janthmueller/marching-square-simulator">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -122,11 +122,11 @@ Optional Arguments:
                         Change the square color in walk mode. The default color is red with the rgb-values: 255 0 0.
 
 ```
-### Control
+### Control  
 
-WASD - move marching square freely
-SPACE - move marching square by iso-values 
-MOUSECLICK on cell - change cell color (white <-> black) / iso-value (0 <-> 1)
+MOUSECLICK on cell - change cell color (white <-> black) / iso-value (0 <-> 1)  
+WASD - move marching square freely  
+SPACE - move marching square by iso-values. Inspired by [Wiki-Diagramm](https://de.wikipedia.org/wiki/Marching_Squares#/media/Datei:Marchsquares.png)
 
 <!-- ROADMAP -->
 ## Roadmap
