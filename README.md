@@ -198,7 +198,7 @@ Project Link: [https://github.com/janthmueller/marching-square-simulator](https:
 [forks-shield]: https://img.shields.io/github/forks/janthmueller/marching-square-simulator.svg?style=for-the-badge
 [forks-url]: https://github.com/janthmueller/marching-square-simulator/network/members
 [stars-shield]: https://img.shields.io/github/stars/janthmueller/marching-square-simulator.svg?style=for-the-badge
-[stars-url]: https://github.com/janthmueller/marching-square-simulator/stargazers
+[stars-url]: https://github.com/janthmueller/marching-square-simulator/stargazers/
 [issues-shield]: https://img.shields.io/github/issues/janthmueller/marching-square-simulator.svg?style=for-the-badge
 [issues-url]: https://github.com/janthmueller/marching-square-simulator/issues
 [license-shield]: https://img.shields.io/github/license/janthmueller/marching-square-simulator.svg?style=for-the-badge
