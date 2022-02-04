@@ -202,7 +202,7 @@ Project Link: [https://github.com/janthmueller/marching-square-simulator](https:
 [issues-shield]: https://img.shields.io/github/issues/janthmueller/marching-square-simulator.svg?style=for-the-badge
 [issues-url]: https://github.com/janthmueller/marching-square-simulator/issues
 [license-shield]: https://img.shields.io/github/license/janthmueller/marching-square-simulator.svg?style=for-the-badge
-[license-url]: https://github.com/janthmueller/marching-square-simulator/blob/master/LICENSE.txt
+[license-url]: https://github.com/janthmueller/marching-square-simulator/main/LICENSE.txt
 [xing-shield]: https://img.shields.io/static/v1?style=for-the-badge&message=Xing&color=006567&logo=Xing&logoColor=FFFFFF&label=
 [xing-url]: https://www.xing.com/profile/Jan_Mueller1015
 [product-screenshot]: images/screenshot.png 
