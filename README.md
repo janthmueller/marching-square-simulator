@@ -169,7 +169,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Jan Müller
+Jan Thomas Müller
 
 Project Link: [https://github.com/janthmueller/marching-square-simulator](https://github.com/janthmueller/marching-square-simulator)
 
